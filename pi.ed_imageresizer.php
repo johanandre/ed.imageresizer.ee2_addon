@@ -5,7 +5,7 @@
  * Erskine Design ImageResizer (PHP5 only)
  * REQUIRES ExpressionEngine 2+
  * 
- * @package     ED_ImageResizer
+ * @package     ED_ImageResizer addon
  * @version     1.1.0
  * @author      Glen Swinfield (Erskine Design)
  * @copyright   Copyright (c) 2009 Erskine Design
